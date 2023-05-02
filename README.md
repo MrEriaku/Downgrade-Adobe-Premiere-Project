@@ -1,13 +1,14 @@
 Premiere Pro Downgrader
 
 Welcome to the Premiere Pro Downgrader GitHub repository! This tool is designed to help users downgrade their Adobe Premiere Pro projects with ease, allowing them to work with older versions of the software.
-Features
 
-    Easy-to-use web page interface
-    Clear and concise instructions
-    Compatible with GitHub repository
+Features:
 
-Limitations
+    - Easy-to-use web page interface
+    - Clear and concise instructions
+    - Compatible with GitHub repository
+
+Limitations:
 
 It is important to note that the downgrading process is not perfect, and there are some limitations to what can be achieved. Specifically, edits made using the new Type Tool will be lost as CC 2017 and older versions do not support this feature.
 
